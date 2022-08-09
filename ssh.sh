@@ -1,4 +1,9 @@
 #!/bin/bash
+# Orignal Script JohnFordTV's VPN Premium Script
+# © Github.com/johndesu090
+# Orignal Repository: 
+# Modified By Malintes
+# Thanks for using this script, Enjoy Highspeed OpenVPN Service
 
 # OpenSSH Ports
 SSH_Port='2205'
